@@ -2,6 +2,7 @@
 Пример
 
 Файл сумм:
+
 file_01.bin md5 aaeab83fcc93cd3ab003fa8bfd8d8906
 
 file_02.bin md5 6dc2d05c8374293fe20bc4c22c236e2e
