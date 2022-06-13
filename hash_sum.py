@@ -33,6 +33,8 @@ try:
 
                 elif algorithm == "sha256":
                     hash_sum = sha256.hexdigest()
+                else:
+                    print("Algorithm {} not found".format(algorithm))
 
                 if hash_in_file == hash_sum:
                     print(file_name, "OK")
